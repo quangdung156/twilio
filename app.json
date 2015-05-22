@@ -1,0 +1,19 @@
+{
+  "name":"twilio",
+  "scripts":{},
+  "env":{
+    "ACCOUNT_SID":{
+      "required":true
+    },
+    "APP_SID":{
+      "required":true
+    },
+    "AUTH_TOKEN":{
+      "required":true
+    },
+    "CALLER_ID":{
+      "required":true
+    }
+  },
+  "addons":[]
+}
